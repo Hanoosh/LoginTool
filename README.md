@@ -9,6 +9,6 @@ Press Next to login into next account.
 
 --
 Notes: 
-  - Make sure RS is open.
+  - Make sure RS is open before you start the program.
   - Make sure there is an accounts.txt file
   - No whitelines, no lines that arent a combo
